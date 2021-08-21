@@ -14,4 +14,4 @@ You will need a twitter API Key in order to use this app.
 ## Contributing
 
 ## License
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
